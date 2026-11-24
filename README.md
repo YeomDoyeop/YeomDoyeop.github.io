@@ -15,7 +15,6 @@ PyTorch·YOLO 모델 학습부터 LLM 서비스 풀스택 개발까지 경험한
 |---|---|
 | Language | Python, C, C++, Kotlin, JavaScript, TypeScript |
 | Framework | PyTorch, TensorFlow Lite, React, Next.js, FastAPI |
-| AI | Gemini, Codex, Claude Code |
 | DB | Supabase, Firebase |
 | Infra | Vercel |
 
