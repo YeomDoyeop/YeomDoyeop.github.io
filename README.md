@@ -56,13 +56,14 @@ Python · JavaScript · FastAPI · React · Supabase · LLM API
 **결과**
 
 긴 방송 URL을 입력하면 AI가 핵심 구간을 추천하고, 자막이 포함된 롱폼 영상까지 생성하는 흐름을 3인 팀으로 완성했습니다.
+
 "3시간 방송 → 30분 롱폼 영상 자동 생성"
 
 **링크**
 
-[졸업과제 소스 코드](https://github.com/pnucse-capstone2026/capstone-2026-team-10)
-<!-- TODO: 데모 영상이 있으면 아래 주석을 풀고 주소를 넣으세요 -->
-<!-- · [데모 영상](https://youtu.be/데모영상ID) -->
+[스트리밍 자동 편집 서비스 소스 코드](https://github.com/pnucse-capstone2026/capstone-2026-team-10)
+
+· [데모 영상](https://www.youtube.com/watch?v=EX_gG5MmzW8)
 
 ---
 
@@ -86,7 +87,7 @@ Python · JavaScript · FastAPI · React · Supabase · LLM API
 - **역할:** 포트폴리오 관리·DB 연동, PDF 변환 워커(서버리스 한계를 별도 워커로 해결), Google OAuth 인증
 - [GitHub](https://github.com/pnu-camp-2026-S/team3_career)
 
-### 🖼 이미지 분석을 통한 식당 추천 모바일 앱
+### 이미지 분석을 통한 식당 추천 모바일 앱
 `2025.05.01 ~ 2025.06.20` · 2인
 
 음식 사진을 넣으면 어떤 음식인지 분석하고, 해당 음식을 파는 주변 식당을 추천하는 모바일 앱
