@@ -61,7 +61,7 @@ Python · JavaScript · FastAPI · React · Supabase · LLM API
 
 **링크**
 
-[스트리밍 자동 편집 서비스 소스 코드](https://github.com/pnucse-capstone2026/capstone-2026-team-10)
+· [스트리밍 자동 편집 서비스 소스 코드](https://github.com/pnucse-capstone2026/capstone-2026-team-10)
 
 · [데모 영상](https://www.youtube.com/watch?v=EX_gG5MmzW8)
 
