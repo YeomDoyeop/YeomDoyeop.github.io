@@ -5,11 +5,11 @@ PyTorch·YOLO 모델 학습부터 LLM 서비스 풀스택 개발까지 경험한
 
 **관심 분야:** LLM 에이전트 · 컴퓨터 비전(YOLO, OCR) · AI 서비스 풀스택
 
-📧 [yeom5122@gmail.com](mailto:yeom5122@gmail.com) · 🐙 [GitHub](https://github.com/YeomDoyeop) · 📄 [이력서 PDF 다운로드](resume.pdf) · 🎓 부산대학교 정보컴퓨터공학부
+[GitHub](https://github.com/YeomDoyeop) · 📄 [이력서 PDF 다운로드](resume.pdf) · 🎓 부산대학교 정보컴퓨터공학부
 
 ---
 
-## 🛠 기술 스택
+## 기술 스택
 
 | 분류 | 기술 |
 |---|---|
@@ -19,7 +19,7 @@ PyTorch·YOLO 모델 학습부터 LLM 서비스 풀스택 개발까지 경험한
 | DB | Supabase, Firebase |
 | Infra | Vercel |
 
-## 💡 핵심 역량
+## 핵심 역량
 
 - **LLM 활용:** 문맥 요약 프롬프트 설계
 - **백엔드:** FastAPI·Next.js, Supabase DB 연동
@@ -29,9 +29,9 @@ PyTorch·YOLO 모델 학습부터 LLM 서비스 풀스택 개발까지 경험한
 
 ---
 
-## ⭐ 대표 프로젝트
+## 대표 프로젝트
 
-### 🎬 AI 라이브 스트리밍 롱폼 요약 서비스
+### AI 라이브 스트리밍 롱폼 요약 서비스
 `2026.05.01 ~ 2026.10.01` · 3인 팀 · 졸업과제
 
 긴 YouTube 방송의 핵심 구간을 AI로 추천해, 자막이 포함된 롱폼 영상으로 만들어 주는 서비스입니다.
@@ -56,19 +56,19 @@ Python · JavaScript · FastAPI · React · Supabase · LLM API
 **결과**
 
 긴 방송 URL을 입력하면 AI가 핵심 구간을 추천하고, 자막이 포함된 롱폼 영상까지 생성하는 흐름을 3인 팀으로 완성했습니다.
-<!-- TODO: 수치가 있으면 추가하세요. 예) "3시간 방송 → 20분 롱폼 영상 자동 생성" -->
+"3시간 방송 → 30분 롱폼 영상 자동 생성"
 
 **링크**
 
-[소스 코드 (GitHub)](https://github.com/pnucse-capstone2026/capstone-2026-team-10)
+[졸업과제 소스 코드](https://github.com/pnucse-capstone2026/capstone-2026-team-10)
 <!-- TODO: 데모 영상이 있으면 아래 주석을 풀고 주소를 넣으세요 -->
 <!-- · [데모 영상](https://youtu.be/데모영상ID) -->
 
 ---
 
-## 📂 그 외 프로젝트
+## 그 외 프로젝트
 
-### 🔒 KodeKorea BP Project
+### KodeKorea BP Project
 `2026.09.18 ~ 2026.11.27 (예정)` · 1인
 
 도면의 주요 치수 BBOX를 추출하고 OCR로 읽어 치수성적서를 자동으로 만드는 서비스
@@ -77,7 +77,7 @@ Python · JavaScript · FastAPI · React · Supabase · LLM API
 - **역할:** YOLO 모델 학습, LLM API 연동, 에이전트 구현
 - [GitHub](https://github.com/YeomDoyeop/KodeKorea__BP_Project)
 
-### 📁 Myfitfolio — 직무 맞춤형 포트폴리오 서비스
+### Myfitfolio — 직무 맞춤형 포트폴리오 서비스
 `2026.06.29 ~ 2026.07.10` · 6인
 
 활동 자료를 AI로 분석해 직무 맞춤형 포트폴리오와 활동 추천을 제공하는 웹 서비스
