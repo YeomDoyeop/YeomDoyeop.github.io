@@ -4,3 +4,26 @@ logo: /assets/img/profile.jpg
 show_downloads: false
 theme: jekyll-theme-minimal
 lang: ko
+
+# 왼쪽 사이드바 목차 (url은 README.md 제목에서 자동으로 만들어진 앵커)
+toc:
+  - title: 소개
+    url: "#ai-엔지니어-염도엽-yeomdoyeop"
+  - title: 기술 스택
+    url: "#-기술-스택"
+  - title: 핵심 역량
+    url: "#-핵심-역량"
+  - title: 대표 프로젝트
+    url: "#-대표-프로젝트"
+    children:
+      - title: AI 라이브 스트리밍 롱폼 요약
+        url: "#-ai-라이브-스트리밍-롱폼-요약-서비스"
+  - title: 그 외 프로젝트
+    url: "#-그-외-프로젝트"
+    children:
+      - title: KodeKorea BP Project
+        url: "#-kodekorea-bp-project"
+      - title: Myfitfolio
+        url: "#-myfitfolio--직무-맞춤형-포트폴리오-서비스"
+      - title: 식당 추천 모바일 앱
+        url: "#-이미지-분석을-통한-식당-추천-모바일-앱"
